@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'dashboard' => 'Контролен панел',
+    'user' => 'Потребител',
+    'add_user' => 'Добави потребител',
+    'edit_user' => 'Редактирай потребител',
+    'delete_user' => 'Изтрий потребител',
+    'role' => 'Роля',
+    'add_role' => 'Добави роля',
+    'edit_role' => 'Редактирай роля',
+    'delete_role' => 'Изтрий роля',
+    'category' => 'Категория',
+    'add_category' => 'Добави категория',
+    'edit_category' => 'Редактирай категория',
+    'delete_category' => 'Изтрий категория',
+    'subcategory' => 'Подкатегория',
+    'add_subcategory' => 'Добави подкатегория',
+    'edit_subcategory' => 'Редактирай подкатегория',
+    'delete_subcategory' => 'Изтрий подкатегория',
+    'product' => 'Продукт',
+    'add_product' => 'Добави продукт',
+    'edit_product' => 'Редактирай продукт',
+    'delete_product' => 'Изтрий продукт',
+    'settings' => 'Настройки',
+];
